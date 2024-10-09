@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋<br>
 
-I'm Aditya Shinde, a results-driven Data Analyst with over 2 years of experience in the UK Civil Service, focusing on driving digital transformation across government projects. My expertise lies in leveraging advanced machine learning algorithms, cloud technologies, and geospatial tech to turn complex data into actionable insights.          <br>
+I'm Aditya Shinde, a results-driven Data Analyst with over 2 years of experience in the UK Government, focusing on driving digital transformation across government projects. My expertise lies in leveraging advanced machine learning algorithms, cloud technologies, and geospatial tech to turn complex data into actionable insights.          <br>
 
 🌱 Skills and Technologies<br>Programming Languages: Python, R, SQL, Java<br>Data Query Languages: Azure SQL, MySQL, PostgreSQL, SparkSQL, Cassandra, MongoDB<br>AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, LLMs, RAG, Azure ML Studio, Amazon SageMaker<br>Cloud Technologies: Azure (Data Lake, Data Factory, Databricks, Kubernetes), AWS (EC2, S3, Lambda, Redshift), Apache Spark<br>Data Visualization: Power BI, Tableau, Excel<br>Tools & Technologies: GitHub, Jupyter Notebook, Visual Studio Code, Informatica, Alteryx<br><br>
 
