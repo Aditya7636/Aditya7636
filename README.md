@@ -3,7 +3,13 @@ Hi there 👋<br>
 
 I'm Aditya Shinde, a results-driven Data Analyst with over 2 years of experience in the UK Government, focusing on driving digital transformation across government projects. My expertise lies in leveraging advanced machine learning algorithms, cloud technologies, and geospatial tech to turn complex data into actionable insights.          <br>
 
-🌱 Skills and Technologies<br>Programming Languages: Python, R, SQL, Java<br>Data Query Languages: Azure SQL, MySQL, PostgreSQL, SparkSQL, Cassandra, MongoDB<br>AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, LLMs, RAG, Azure ML Studio, Amazon SageMaker<br>Cloud Technologies: Azure (Data Lake, Data Factory, Databricks, Kubernetes), AWS (EC2, S3, Lambda, Redshift), Apache Spark<br>Data Visualization: Ploty, R-shiny, Power BI, Tableau, Excel<br>Tools & Technologies: GitHub, Jupyter Notebook, Visual Studio Code, Informatica, Alteryx<br><br>
+🌱 Skills and Technologiesle<br>
+•	Programming & Data Processing: Python (Pandas, NumPy, Scikit-learn, PySpark, TensorFlow, PyTorch, Matplotlib, Seaborn), R, SQL (SQL Server, PostgreSQL), Apache Spark, Databricks
+•	Data Engineering & ETL: Azure Data Factory, AWS Glue, Apache NiFi, Informatica, dbt (data build tool), Apache Airflow
+•	Cloud Platforms & Big Data: Azure (Data Lake, Databricks, Synapse Analytics), AWS (S3, Redshift, Lambda)
+•	Database Systems: SQL (Azure SQL, MySQL, PostgreSQL), NoSQL (Cassandra, MongoDB, Redis), Data Warehousing (Snowflake)
+•	Data Visualization & BI: Power BI, Tableau, advanced Excel, Plotly
+•	Machine Learning & Advanced Analytics: Scikit-learn, MLflow, Spark MLlib, Azure Machine Learning, AWS SageMaker
 
 💬 Let's Connect<br>I'm passionate about harnessing the power of data to solve complex problems and drive strategic decision-making. I thrive in collaborative environments and am always eager to learn and implement new technologies.<br><br>
 
