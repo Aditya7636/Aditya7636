@@ -16,7 +16,7 @@ I'm Aditya Shinde, a results-driven Data Analyst with over 2 years of experience
 
 ## 🌐 Socials:
 LinkedIn: https://www.linkedin.com/in/aditya-shinde7636/<br>
-Email: adityashinde763@gmail.com<br>
+Email: adityashinde9797@gmail.com<br>
 
 
 Feel free to explore my repositories and reach out for collaboration opportunities!<br><br>⚡ Fun Fact<br>When I'm not crunching numbers or coding, you might find me exploring the latest advancements in AI or enjoying a good sci-fi novel.
